@@ -3,7 +3,7 @@ An email spam classifier using SVM which uses linear kernel.
 
 This is an assignment that i completed in Andrew NG's machine learning course on coursera.org.
 
-# File name and there function
+# File name and their function
 ex6.m - Octave/MATLAB script for the first half of the exercise(To make a svm model and use it)
 
 ex6data1.mat - Example Dataset 1
