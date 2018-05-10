@@ -1,7 +1,7 @@
 # Email-Spam-classifier
 An email spam classifier using SVM which uses linear kernel.
 
-This is an assignment that i completed in Andrew NG's machine learning course on coursera.org.
+This repo is specially created for the work done by me as a part of Coursera's Machine Learning Course.
 
 # File name and their function
 ex6.m - Octave/MATLAB script for the first half of the exercise(To make a svm model and use it)
